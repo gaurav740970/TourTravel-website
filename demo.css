@@ -1,0 +1,307 @@
+.A{
+   
+    background-color: black;
+    margin-top: -15px;
+
+}
+.A nav ul{
+    display: flex;
+    justify-content: space-between;
+    padding: 7px;
+}
+.A ul li{
+    list-style-type: none;
+}
+ .A ul  li a{
+    color: white;
+    text-decoration: none;
+    list-style: none;
+
+}
+#tours{
+    margin-left:300px;
+}
+#b{
+    background-color: rgb(155, 42, 1);
+    padding: 8px 10px;
+}
+.B{
+    background-color: white;
+    margin: -14px;
+}
+.B ul{
+    display: flex;  
+   
+
+}
+.B ul li a {
+   color: black;
+    text-decoration: none;
+ 
+}
+
+.B ul li{
+    position: sticky;
+    list-style-type: none;
+    margin: 15px;
+    
+}
+#logo{
+    margin-right: 550px;
+}
+
+li a img{
+    padding: 3px;
+    width: 50px;
+    height: 50px;
+}
+#bg img{
+    height:350px;
+    width: 1340px;
+    margin-top: -10px;
+    margin-top: -20px;
+}
+#sp{
+    position: absolute;
+    top: 35%;
+    right: 50%;
+    border: 1px solid white;
+    background-color: white ;
+    padding: 6px;
+    border-radius: 20px;
+    width: 200px;
+    text-align: center;
+   
+}
+#sp1{
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    border: 1px solid rgb(105, 79, 79);
+    background-color: rgb(105,79,79);
+    padding: 6px;
+    border-radius: 20px;
+    width: 200px;
+    text-align:center;
+}
+.searching{
+    display: flex;
+    position: absolute;
+    top: 45%;
+    right: 20%;
+   border: 1px solid white;
+    border-radius: 50px;
+    box-shadow: 3px 3px 3px white;   
+}
+div input{
+      width: 450px;
+      height: 48px; 
+      border-top-left-radius: 50px;
+      border-bottom-left-radius: 50px;
+}
+ div #opt{
+    background-color:white;
+    border: 1px solid white;
+    width: 200px;
+    height: 50px;
+   border-left: 1px solid gray;
+}
+ div #btn{
+    width: 135px;
+    height: 54px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    background-color: brown;
+    color: white;
+}
+.choose{
+    display: flex;
+    background-color: rgb(78, 73, 73);
+    height: 145px;
+     margin-right: -8px;
+     margin-top: -7px;
+}
+ #imgg1{
+    display: flex;
+    height: 100px;
+    width:300px;
+    margin-left: 30px;
+    background-color: white;
+    margin-top: 22px;
+
+ }
+ #imgg2{
+    display: flex;
+    height: 100px;
+    width:300px;
+    margin-left: 20px;
+    background-color: white;
+    margin-top: 22px;
+ }
+ #imgg3{
+    display: flex;
+    height: 100px;
+    width:300px;
+    margin-left: 20px;
+    background-color: white;
+    margin-top: 22px;
+
+ }
+ #imgg4{
+    display: flex;
+    height: 100px;
+    width:300px;
+    margin-left: 20px;
+    background-color: white;
+    margin-top: 22px;
+
+ }
+#imgg1 img{
+    width: 100px;
+    height: 100px;
+}
+#imgg2 img{
+    width: 100px;
+    height: 100px;
+    
+}
+#imgg3 img{
+    width: 100px;
+    height: 100px;
+    
+}
+#imgg4 img{
+    width: 100px;
+    height: 100px;
+}
+#p1{
+    margin-left: 10px;
+    line-height: 1.3;
+}
+#p2{
+    margin-left: 10px;
+    line-height: 1.3;
+}
+#p3{
+    margin-left: 10px;
+    line-height: 1.3;
+}
+#p4{
+    margin-left: 10px;
+    line-height: 1.3;
+}
+#pre{
+    font-size:30px;
+}
+
+ p #pre::Tourist{
+    font-style: italic;
+    color: yellow;
+}
+.besttour{
+    padding-left: 70px;
+
+}
+#pre{
+    border-left: 4px solid orangered;
+    font-size: 35px;
+    padding-left: 13px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+#the{
+    font-size: 20px;
+    margin-top: -25px;
+    color: rgb(73, 66, 66);
+}
+
+#jaipur{
+    margin-left: 70px;
+
+}
+#delhi{
+    margin-left: 10px;
+}
+#shimla{
+    margin-left: 10px;
+}
+#srinager{
+    margin-left: 10px;
+}
+#udaipur{
+    margin-left: 10px;
+}
+#jai{
+    position: absolute;
+     bottom: -62%;
+    left: 150px;
+border: 1px solid white;
+background-color: aliceblue;
+  width:11%;
+  opacity: 0.7;
+
+}
+
+#del{
+    position: absolute;
+    bottom: -62%;
+   left: 29%;
+   border: 1px solid white;
+background-color: aliceblue;
+  width:11%;
+  opacity: 0.7;
+}
+#shim{
+    position: absolute;
+    bottom: -62%;
+   left: 46%;
+   border: 1px solid white;
+background-color: aliceblue;
+  width:11%;
+  opacity: 0.7;
+
+}
+#sri{
+    position: absolute;
+    bottom: -62%;
+   left: 62%;
+   border: 1px solid white;
+background-color: aliceblue;
+  width:12.5%;
+  opacity: 0.7;
+}
+#udai{
+    position: absolute;
+    bottom: -62%;
+   left: 81%;
+   border: 1px solid white;
+background-color: aliceblue;
+  width:11%;
+  opacity: 0.7;
+}
+.top{
+    padding-left: 70px;
+}
+#agents{
+    border-left: 4px solid orangered;
+    font-size: 35px;
+    padding-left: 13px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+#trusted{
+    font-size: 20px;
+    margin-top: -25px;
+    color: rgb(73, 66, 66);
+}
+.agents{
+    margin-left: 70px;
+}
+.srcc{
+    margin-left: 40px;
+}
+#srcc{
+    margin-right: 70px;
+    margin-left: 40px;
+}
